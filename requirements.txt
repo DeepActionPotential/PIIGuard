@@ -1,0 +1,5 @@
+streamlit==1.31.0
+torch==2.2.1
+transformers==4.38.2
+pandas==2.1.4
+pytorch-crf==0.7.2
