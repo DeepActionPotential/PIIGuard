@@ -18,7 +18,7 @@ Detecting Personally Identifiable Information (PII) using BiLSTM-CRF model
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/PIIDetector.git
+   git clone https://github.com/DeepActionPotential/PIIDetector
    cd PIIDetector
    ```
 
