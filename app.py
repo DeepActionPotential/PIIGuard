@@ -3,7 +3,7 @@ from utils import load_full_model_and_tokenizer
 from ui import render_ui
 from model import BiLSTMCRF
 
-# Cache model and tokenizer
+# Cache model and tokenizer 
 @st.cache_resource
 def get_model_and_tokenizer():
     return load_full_model_and_tokenizer("models/best_bilstm_crf_model.pt")
