@@ -3,6 +3,7 @@ from utils import prepare_inputs
 import torch
 import pandas as pd
 
+# UI 
 def render_ui(text, model, tokenizer, idx2tag):
     # Prepare inputs
     input_ids, mask = prepare_inputs(text, tokenizer)
