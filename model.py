@@ -1,5 +1,3 @@
-
-
 import torch.nn as nn
 from torchcrf import CRF
 
